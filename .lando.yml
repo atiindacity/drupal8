@@ -1,0 +1,4 @@
+name: drupalapp
+recipe: drupal8
+config:
+  webroot: web
